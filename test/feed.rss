@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CTFtime.org: upcoming CTF events</title><link>https://ctftime.org/event/list/upcoming/rss/</link><description>CTFtime.org upcoming CTF events feed.</description><atom:link href="https://ctftime.org/event/list/upcoming/rss/" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 15 Oct 2018 20:15:53 -0000</lastBuildDate><item><title>Hack.lu CTF 2018</title><link>https://ctftime.org/event/699</link><description>
+Name: Hack.lu CTF 2018 (an &lt;a href="/ctf/8"&gt;Hack.lu CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 16, 2018, 10 a.m. &amp;mdash; 18 Oct. 2018, 10:00 UTC &amp;nbsp;&lt;a href="/event/699.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://arcade.fluxfingers.net/register" rel="nofollow"&gt;https://arcade.fluxfingers.net/register&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/551"&gt;FluxFingers&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/699</guid><start_date>20181016T100000</start_date><finish_date>20181018T100000</finish_date><logo_url>/media/events/logo_30.png</logo_url><url>https://arcade.fluxfingers.net/register</url><ctftime_url>/event/699</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>70.67</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 551, "name": "FluxFingers"}]</organizers><ctf_id>8</ctf_id><ctf_name>Hack.lu CTF</ctf_name></item><item><title>HITCON CTF 2018</title><link>https://ctftime.org/event/669</link><description>
+Name: HITCON CTF 2018 (an &lt;a href="/ctf/79"&gt;HITCON CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 20, 2018, 2 a.m. &amp;mdash; 22 Oct. 2018, 02:00 UTC &amp;nbsp;&lt;a href="/event/669.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.hitcon.org/" rel="nofollow"&gt;https://ctf.hitcon.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/5160"&gt;217&lt;/a&gt; 
+
+&lt;a href="/team/8299"&gt;HITCON&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/669</guid><start_date>20181020T020000</start_date><finish_date>20181022T020000</finish_date><logo_url>/media/events/hitcon2_1.png</logo_url><url>https://ctf.hitcon.org/</url><ctftime_url>/event/669</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>98.32</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 5160, "name": "217"}, {"id": 8299, "name": "HITCON"}]</organizers><ctf_id>79</ctf_id><ctf_name>HITCON CTF</ctf_name></item><item><title>BSides Delhi CTF 2018</title><link>https://ctftime.org/event/700</link><description>
+Name: BSides Delhi CTF 2018 (an &lt;a href="/ctf/60"&gt;BSIDES CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 25, 2018, 6 a.m. &amp;mdash; 26 Oct. 2018, 06:00 UTC &amp;nbsp;&lt;a href="/event/700.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Delhi%2C%20India"&gt;Delhi, India&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.bsidesdelhi.in/" rel="nofollow"&gt;https://ctf.bsidesdelhi.in/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/662"&gt;bi0s&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/700</guid><start_date>20181025T060000</start_date><finish_date>20181026T060000</finish_date><logo_url>/media/events/BSides_Delhi_Logo.png</logo_url><url>https://ctf.bsidesdelhi.in/</url><ctftime_url>/event/700</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>23.48</weight><live_feed>https://ctftime.org/live/700/</live_feed><restrictions>Open</restrictions><location>Delhi, India</location><onsite>False</onsite><organizers>[{"id": 662, "name": "bi0s"}]</organizers><ctf_id>60</ctf_id><ctf_name>BSIDES CTF</ctf_name></item><item><title>P.W.N. CTF</title><link>https://ctftime.org/event/639</link><description>
+Name: P.W.N. CTF (an &lt;a href="/ctf/159"&gt;HCTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 26, 2018, 6:18 p.m. &amp;mdash; 27 Oct. 2018, 19:19 UTC &amp;nbsp;&lt;a href="/event/639.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://uni.hctf.fun/" rel="nofollow"&gt;https://uni.hctf.fun/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/27880"&gt;HCTF&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/639</guid><start_date>20181026T181800</start_date><finish_date>20181027T191900</finish_date><logo_url></logo_url><url>https://uni.hctf.fun/</url><ctftime_url>/event/639</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 27880, "name": "HCTF"}]</organizers><ctf_id>159</ctf_id><ctf_name>HCTF</ctf_name></item><item><title>SECCON 2018 Online CTF</title><link>https://ctftime.org/event/683</link><description>
+Name: SECCON 2018 Online CTF (an &lt;a href="/ctf/92"&gt;SECCON CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Oct. 27, 2018, 6 a.m. &amp;mdash; 28 Oct. 2018, 06:00 UTC &amp;nbsp;&lt;a href="/event/683.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://score-quals.seccon.jp/" rel="nofollow"&gt;https://score-quals.seccon.jp/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/11918"&gt;SECCON CTF&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/683</guid><start_date>20181027T060000</start_date><finish_date>20181028T060000</finish_date><logo_url></logo_url><url>https://score-quals.seccon.jp/</url><ctftime_url>/event/683</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>36.44</weight><live_feed>https://ctftime.org/live/683/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 11918, "name": "SECCON CTF"}]</organizers><ctf_id>92</ctf_id><ctf_name>SECCON CTF</ctf_name></item><item><title>CODE BLUE CTF 2018 Finals</title><link>https://ctftime.org/event/670</link><description>
+Name: CODE BLUE CTF 2018 Finals (an &lt;a href="/ctf/208"&gt;CODE BLUE CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 1, 2018, 1 a.m. &amp;mdash; 02 Nov. 2018, 05:00 UTC &amp;nbsp;&lt;a href="/event/670.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Tokyo%2C%20Japan"&gt;Tokyo, Japan&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://codeblue.jp/" rel="nofollow"&gt;https://codeblue.jp/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/9083"&gt;binja&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/670</guid><start_date>20181101T010000</start_date><finish_date>20181102T050000</finish_date><logo_url></logo_url><url>https://codeblue.jp/</url><ctftime_url>/event/670</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Tokyo, Japan</location><onsite>True</onsite><organizers>[{"id": 9083, "name": "binja"}]</organizers><ctf_id>208</ctf_id><ctf_name>CODE BLUE CTF</ctf_name></item><item><title>WhiteHat Grand Prix 2018 - Final Round</title><link>https://ctftime.org/event/697</link><description>
+Name: WhiteHat Grand Prix 2018 - Final Round (an &lt;a href="/ctf/124"&gt;WhiteHat Grand Prix&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 1, 2018, 9:30 a.m. &amp;mdash; 01 Nov. 2018, 17:30 UTC &amp;nbsp;&lt;a href="/event/697.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Attack-Defense&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Ha%20Noi%2C%20Vietnam"&gt;Ha Noi, Vietnam&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://grandprix.whitehatvn.com/" rel="nofollow"&gt;https://grandprix.whitehatvn.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/16789"&gt;BTeam&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/697</guid><start_date>20181101T093000</start_date><finish_date>20181101T173000</finish_date><logo_url></logo_url><url>https://grandprix.whitehatvn.com/</url><ctftime_url>/event/697</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Ha Noi, Vietnam</location><onsite>True</onsite><organizers>[{"id": 16789, "name": "BTeam"}]</organizers><ctf_id>124</ctf_id><ctf_name>WhiteHat Grand Prix</ctf_name></item><item><title>CSAW CTF Final Round 2018</title><link>https://ctftime.org/event/696</link><description>
+Name: CSAW CTF Final Round 2018 (an &lt;a href="/ctf/19"&gt;CSAW CTF Final Round&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 8, 2018, 2 a.m. &amp;mdash; 10 Nov. 2018, 14:00 UTC &amp;nbsp;&lt;a href="/event/696.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=NY%2C%20USA"&gt;NY, USA&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="http://ctf.csaw.io/" rel="nofollow"&gt;http://ctf.csaw.io/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/439"&gt;NYUSEC&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/696</guid><start_date>20181108T020000</start_date><finish_date>20181110T140000</finish_date><logo_url></logo_url><url>http://ctf.csaw.io/</url><ctftime_url>/event/696</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>35.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>NY, USA</location><onsite>True</onsite><organizers>[{"id": 439, "name": "NYUSEC"}]</organizers><ctf_id>19</ctf_id><ctf_name>CSAW CTF Final Round</ctf_name></item><item><title>DefCamp CTF Finals 2018</title><link>https://ctftime.org/event/698</link><description>
+Name: DefCamp CTF Finals 2018 (an &lt;a href="/ctf/91"&gt;Defcamp CTF Finals&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 8, 2018, 9 a.m. &amp;mdash; 09 Nov. 2018, 09:00 UTC &amp;nbsp;&lt;a href="/event/698.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Bucharest%2C%20Romania"&gt;Bucharest, Romania&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://dctf.def.camp/" rel="nofollow"&gt;https://dctf.def.camp/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/9831"&gt;CCSIR.org&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/698</guid><start_date>20181108T090000</start_date><finish_date>20181109T090000</finish_date><logo_url>/media/events/dctf-150x150.png</logo_url><url>https://dctf.def.camp/</url><ctftime_url>/event/698</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Bucharest, Romania</location><onsite>True</onsite><organizers>[{"id": 9831, "name": "CCSIR.org"}]</organizers><ctf_id>91</ctf_id><ctf_name>Defcamp CTF Finals</ctf_name></item><item><title>Square CTF</title><link>https://ctftime.org/event/695</link><description>
+Name: Square CTF (an &lt;a href="/ctf/218"&gt;Square CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 8, 2018, 7 p.m. &amp;mdash; 14 Nov. 2018, 19:00 UTC &amp;nbsp;&lt;a href="/event/695.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="http://squarectf.com/" rel="nofollow"&gt;http://squarectf.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/63648"&gt;squarectf&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/695</guid><start_date>20181108T190000</start_date><finish_date>20181114T190000</finish_date><logo_url></logo_url><url>http://squarectf.com/</url><ctftime_url>/event/695</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 63648, "name": "squarectf"}]</organizers><ctf_id>218</ctf_id><ctf_name>Square CTF</ctf_name></item><item><title>RuCTFE 2018</title><link>https://ctftime.org/event/687</link><description>
+Name: RuCTFE 2018 (an &lt;a href="/ctf/6"&gt;RuCTFE&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 10, 2018, 10 a.m. &amp;mdash; 10 Nov. 2018, 19:00 UTC &amp;nbsp;&lt;a href="/event/687.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Attack-Defense&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ructfe.org/" rel="nofollow"&gt;https://ructfe.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/552"&gt;HackerDom&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/687</guid><start_date>20181110T100000</start_date><finish_date>20181110T190009</finish_date><logo_url></logo_url><url>https://ructfe.org/</url><ctftime_url>/event/687</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>72.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 552, "name": "HackerDom"}]</organizers><ctf_id>6</ctf_id><ctf_name>RuCTFE</ctf_name></item><item><title>CTFZONE 2018 Finals</title><link>https://ctftime.org/event/665</link><description>
+Name: CTFZONE 2018 Finals (an &lt;a href="/ctf/201"&gt;CTFZone&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 15, 2018, 8 a.m. &amp;mdash; 16 Nov. 2018, 13:00 UTC &amp;nbsp;&lt;a href="/event/665.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Attack-Defense&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Russia%2C%20Moscow%2C%20OFFZONE%202018"&gt;Russia, Moscow, OFFZONE 2018&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctf.bi.zone/" rel="nofollow"&gt;https://ctf.bi.zone/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/32190"&gt;BIZone&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/665</guid><start_date>20181115T080000</start_date><finish_date>20181116T130000</finish_date><logo_url>/media/events/CTFLOGO.png</logo_url><url>https://ctf.bi.zone/</url><ctftime_url>/event/665</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Russia, Moscow, OFFZONE 2018</location><onsite>True</onsite><organizers>[{"id": 32190, "name": "BIZone"}]</organizers><ctf_id>201</ctf_id><ctf_name>CTFZone</ctf_name></item><item><title>RITSEC CTF 2018</title><link>https://ctftime.org/event/682</link><description>
+Name: RITSEC CTF 2018 (an &lt;a href="/ctf/170"&gt;RITSEC CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 16, 2018, noon &amp;mdash; 18 Nov. 2018, 23:59 UTC &amp;nbsp;&lt;a href="/event/682.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="http://ctf.ritsec.club/" rel="nofollow"&gt;http://ctf.ritsec.club/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/23896"&gt;Contagion&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/682</guid><start_date>20181116T120000</start_date><finish_date>20181118T235959</finish_date><logo_url>/media/events/ritsec-ctf18.png</logo_url><url>http://ctf.ritsec.club/</url><ctftime_url>/event/682</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 23896, "name": "Contagion"}]</organizers><ctf_id>170</ctf_id><ctf_name>RITSEC CTF</ctf_name></item><item><title>GreHack CTF 2018</title><link>https://ctftime.org/event/679</link><description>
+Name: GreHack CTF 2018 (an &lt;a href="/ctf/42"&gt;GreHack CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 16, 2018, 9:30 p.m. &amp;mdash; 17 Nov. 2018, 06:00 UTC &amp;nbsp;&lt;a href="/event/679.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Grenoble%2C%20France"&gt;Grenoble, France&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://grehack.fr/2018/" rel="nofollow"&gt;https://grehack.fr/2018/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/900"&gt;Securimag&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/679</guid><start_date>20181116T213000</start_date><finish_date>20181117T060000</finish_date><logo_url>/media/events/gh18.jpg</logo_url><url>https://grehack.fr/2018/</url><ctftime_url>/event/679</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Grenoble, France</location><onsite>True</onsite><organizers>[{"id": 900, "name": "Securimag"}]</organizers><ctf_id>42</ctf_id><ctf_name>GreHack CTF</ctf_name></item><item><title>Dragon CTF 2018</title><link>https://ctftime.org/event/649</link><description>
+Name: Dragon CTF 2018 (an &lt;a href="/ctf/103"&gt;Dragon CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 19, 2018, 9 a.m. &amp;mdash; 20 Nov. 2018, 15:00 UTC &amp;nbsp;&lt;a href="/event/649.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Warsaw%2C%20Poland"&gt;Warsaw, Poland&lt;/a&gt;&lt;br/&gt;
+&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/3329"&gt;Dragon Sector&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/649</guid><start_date>20181119T090000</start_date><finish_date>20181120T150000</finish_date><logo_url>/media/events/avatar_1.jpg</logo_url><url></url><ctftime_url>/event/649</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>66.30</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Warsaw, Poland</location><onsite>True</onsite><organizers>[{"id": 3329, "name": "Dragon Sector"}]</organizers><ctf_id>103</ctf_id><ctf_name>Dragon CTF</ctf_name></item><item><title>Kaspersky Industrial CTF 2018</title><link>https://ctftime.org/event/701</link><description>
+Name: Kaspersky Industrial CTF 2018 (an &lt;a href="/ctf/217"&gt;Kaspersky Industrial CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 23, 2018, 5 p.m. &amp;mdash; 24 Nov. 2018, 17:00 UTC &amp;nbsp;&lt;a href="/event/701.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://ctf.kaspersky.com/" rel="nofollow"&gt;https://ctf.kaspersky.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/46750"&gt;Kaspersky Lab&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/701</guid><start_date>20181123T170000</start_date><finish_date>20181124T170000</finish_date><logo_url>/media/events/logo_ctf.jpg</logo_url><url>https://ctf.kaspersky.com/</url><ctftime_url>/event/701</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>19.23</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 46750, "name": "Kaspersky Lab"}]</organizers><ctf_id>217</ctf_id><ctf_name>Kaspersky Industrial CTF</ctf_name></item><item><title>TUCTF 2018</title><link>https://ctftime.org/event/650</link><description>
+Name: TUCTF 2018 (an &lt;a href="/ctf/147"&gt;TU CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 23, 2018, 10 p.m. &amp;mdash; 25 Nov. 2018, 22:00 UTC &amp;nbsp;&lt;a href="/event/650.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://tuctf.com/" rel="nofollow"&gt;https://tuctf.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/15360"&gt;ascii overflow&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/650</guid><start_date>20181123T220000</start_date><finish_date>20181125T220000</finish_date><logo_url>/media/events/tuctf_logo_square_transparent.png</logo_url><url>https://tuctf.com/</url><ctftime_url>/event/650</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.10</weight><live_feed>https://ctftime.org/live/650/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 15360, "name": "ascii overflow"}]</organizers><ctf_id>147</ctf_id><ctf_name>TU CTF</ctf_name></item><item><title>ASIS CTF Finals 2018</title><link>https://ctftime.org/event/620</link><description>
+Name: ASIS CTF Finals 2018 (an &lt;a href="/ctf/59"&gt;ASIS CTF Finals&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 24, 2018, 6 a.m. &amp;mdash; 26 Nov. 2018, 06:00 UTC &amp;nbsp;&lt;a href="/event/620.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://asisctf.com/" rel="nofollow"&gt;https://asisctf.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/4140"&gt;ASIS&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/620</guid><start_date>20181124T060000</start_date><finish_date>20181126T060000</finish_date><logo_url>/media/events/logo_22.png</logo_url><url>https://asisctf.com/</url><ctftime_url>/event/620</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/620/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 4140, "name": "ASIS"}]</organizers><ctf_id>59</ctf_id><ctf_name>ASIS CTF Finals</ctf_name></item><item><title>CTF Russian Cup 2018</title><link>https://ctftime.org/event/655</link><description>
+Name: CTF Russian Cup 2018 (an &lt;a href="/ctf/229"&gt;CTF Russian Cup&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 30, 2018, 6 a.m. &amp;mdash; 02 Dec. 2018, 19:00 UTC &amp;nbsp;&lt;a href="/event/655.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Skolkovo%2C%20Russia"&gt;Skolkovo, Russia&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ctfcup.ru/" rel="nofollow"&gt;https://ctfcup.ru/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/34463"&gt;Hackforces&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/655</guid><start_date>20181130T060000</start_date><finish_date>20181202T190000</finish_date><logo_url>/media/events/big_2.jpg</logo_url><url>https://ctfcup.ru/</url><ctftime_url>/event/655</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>15.38</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Skolkovo, Russia</location><onsite>True</onsite><organizers>[{"id": 34463, "name": "Hackforces"}]</organizers><ctf_id>229</ctf_id><ctf_name>CTF Russian Cup</ctf_name></item><item><title>Pwn2Win CTF 2018</title><link>https://ctftime.org/event/664</link><description>
+Name: Pwn2Win CTF 2018 (an &lt;a href="/ctf/130"&gt;Pwn2Win CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Nov. 30, 2018, 3:37 p.m. &amp;mdash; 02 Dec. 2018, 15:37 UTC &amp;nbsp;&lt;a href="/event/664.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://pwn2win.party/" rel="nofollow"&gt;https://pwn2win.party/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/9061"&gt;Epic Leet Team&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/664</guid><start_date>20181130T153700</start_date><finish_date>20181202T153700</finish_date><logo_url>/media/events/81c680812c2877b8b9ee4d91b69cec2e.png</logo_url><url>https://pwn2win.party/</url><ctftime_url>/event/664</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>29.31</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 9061, "name": "Epic Leet Team"}]</organizers><ctf_id>130</ctf_id><ctf_name>Pwn2Win CTF</ctf_name></item><item><title>SOC Battle</title><link>https://ctftime.org/event/673</link><description>
+Name: SOC Battle (an &lt;a href="/ctf/263"&gt;SOC Battle&lt;/a&gt; event.)&lt;br/&gt;
+Date: Dec. 1, 2018, 9 a.m. &amp;mdash; 31 May 2019, 23:59 UTC &amp;nbsp;&lt;a href="/event/673.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://www.socbattle.com/" rel="nofollow"&gt;https://www.socbattle.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/60756"&gt;PRISMA CSI&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/673</guid><start_date>20181201T090000</start_date><finish_date>20190531T235959</finish_date><logo_url>/media/events/Ekran_Resmi_2018-08-24_14.32.53.png</logo_url><url>https://www.socbattle.com/</url><ctftime_url>/event/673</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/673/</live_feed><restrictions>Open</restrictions><location></location><onsite>True</onsite><organizers>[{"id": 60756, "name": "PRISMA CSI"}]</organizers><ctf_id>263</ctf_id><ctf_name>SOC Battle</ctf_name></item><item><title>Real World CTF 2018 Finals</title><link>https://ctftime.org/event/688</link><description>
+Name: Real World CTF 2018 Finals (an &lt;a href="/ctf/260"&gt;Real World CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Dec. 1, 2018, 10 a.m. &amp;mdash; 02 Dec. 2018, 18:00 UTC &amp;nbsp;&lt;a href="/event/688.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Zhengzhou%2C%20China"&gt;Zhengzhou, China&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://realworldctf.com/" rel="nofollow"&gt;https://realworldctf.com/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/60371"&gt;Chaitin Tech&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/688</guid><start_date>20181201T100000</start_date><finish_date>20181202T180000</finish_date><logo_url>/media/events/logo150_1.jpg</logo_url><url>https://realworldctf.com/</url><ctftime_url>/event/688</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Zhengzhou, China</location><onsite>True</onsite><organizers>[{"id": 60371, "name": "Chaitin Tech"}]</organizers><ctf_id>260</ctf_id><ctf_name>Real World CTF</ctf_name></item><item><title>hxp CTF 2018</title><link>https://ctftime.org/event/647</link><description>
+Name: hxp CTF 2018 (an &lt;a href="/ctf/120"&gt;hxp CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Dec. 7, 2018, noon &amp;mdash; 09 Dec. 2018, 12:00 UTC &amp;nbsp;&lt;a href="/event/647.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://2018.ctf.link/" rel="nofollow"&gt;https://2018.ctf.link/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/585"&gt;hxp&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/647</guid><start_date>20181207T120000</start_date><finish_date>20181209T120000</finish_date><logo_url>/media/events/logo_600_600_1_1.png</logo_url><url>https://2018.ctf.link/</url><ctftime_url>/event/647</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>42.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 585, "name": "hxp"}]</organizers><ctf_id>120</ctf_id><ctf_name>hxp CTF</ctf_name></item><item><title>ph0wn CTF 2018</title><link>https://ctftime.org/event/680</link><description>
+Name: ph0wn CTF 2018 (an &lt;a href="/ctf/220"&gt;ph0wn&lt;/a&gt; event.)&lt;br/&gt;
+Date: Dec. 14, 2018, 6 p.m. &amp;mdash; 15 Dec. 2018, 02:00 UTC &amp;nbsp;&lt;a href="/event/680.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Sophia%20Antipolis%2C%20France"&gt;Sophia Antipolis, France&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://ph0wn.org/" rel="nofollow"&gt;https://ph0wn.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/6514"&gt;Pic0wn&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/680</guid><start_date>20181214T180000</start_date><finish_date>20181215T020000</finish_date><logo_url>/media/events/logo-ph0wn_1.png</logo_url><url>https://ph0wn.org/</url><ctftime_url>/event/680</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Sophia Antipolis, France</location><onsite>True</onsite><organizers>[{"id": 6514, "name": "Pic0wn"}]</organizers><ctf_id>220</ctf_id><ctf_name>ph0wn</ctf_name></item><item><title>Trend Micro CTF 2018 - Raimund Genes Cup - The Final</title><link>https://ctftime.org/event/663</link><description>
+Name: Trend Micro CTF 2018 - Raimund Genes Cup - The Final (an &lt;a href="/ctf/114"&gt;Trend Micro CTF - Raimund Genes Cup&lt;/a&gt; event.)&lt;br/&gt;
+Date: Dec. 15, 2018, 2 p.m. &amp;mdash; 16 Dec. 2018, 17:00 UTC &amp;nbsp;&lt;a href="/event/663.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Attack-Defense&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Tokyo%2C%20Japan"&gt;Tokyo, Japan&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://www.trendmicro.com/en_us/campaigns/capture-the-flag.html" rel="nofollow"&gt;https://www.trendmicro.com/en_us/campaigns/capture-the-flag.html&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/16963"&gt;Trend Micro&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/663</guid><start_date>20181215T140000</start_date><finish_date>20181216T170000</finish_date><logo_url></logo_url><url>https://www.trendmicro.com/en_us/campaigns/capture-the-flag.html</url><ctftime_url>/event/663</ctftime_url><format>2</format><format_text>Attack-Defense</format_text><public_votable>True</public_votable><weight>20.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Tokyo, Japan</location><onsite>True</onsite><organizers>[{"id": 16963, "name": "Trend Micro"}]</organizers><ctf_id>114</ctf_id><ctf_name>Trend Micro CTF - Raimund Genes Cup</ctf_name></item><item><title>SECCON 2018 Final International competition</title><link>https://ctftime.org/event/684</link><description>
+Name: SECCON 2018 Final International competition (an &lt;a href="/ctf/92"&gt;SECCON CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Dec. 22, 2018, 11 a.m. &amp;mdash; 23 Dec. 2018, 16:00 UTC &amp;nbsp;&lt;a href="/event/684.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Tokyo"&gt;Tokyo&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://2018.seccon.jp/" rel="nofollow"&gt;https://2018.seccon.jp/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/11918"&gt;SECCON CTF&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/684</guid><start_date>20181222T110000</start_date><finish_date>20181223T160000</finish_date><logo_url></logo_url><url>https://2018.seccon.jp/</url><ctftime_url>/event/684</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Tokyo</location><onsite>True</onsite><organizers>[{"id": 11918, "name": "SECCON CTF"}]</organizers><ctf_id>92</ctf_id><ctf_name>SECCON CTF</ctf_name></item><item><title>SECCON 2018 Final Japan competition</title><link>https://ctftime.org/event/685</link><description>
+Name: SECCON 2018 Final Japan competition (an &lt;a href="/ctf/92"&gt;SECCON CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Dec. 23, 2018, 10 a.m. &amp;mdash; 23 Dec. 2018, 16:00 UTC &amp;nbsp;&lt;a href="/event/685.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-site&lt;/b&gt;&lt;br/&gt;
+Location: &lt;a href="http://maps.yandex.com/?text=Tokyo"&gt;Tokyo&lt;/a&gt;&lt;br/&gt;
+Offical URL: &lt;a href="https://2018.seccon.jp/" rel="nofollow"&gt;https://2018.seccon.jp/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/11918"&gt;SECCON CTF&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/685</guid><start_date>20181223T100000</start_date><finish_date>20181223T160000</finish_date><logo_url></logo_url><url>https://2018.seccon.jp/</url><ctftime_url>/event/685</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>25.00</weight><live_feed></live_feed><restrictions>Open</restrictions><location>Tokyo</location><onsite>True</onsite><organizers>[{"id": 11918, "name": "SECCON CTF"}]</organizers><ctf_id>92</ctf_id><ctf_name>SECCON CTF</ctf_name></item><item><title>STEM CTF: Cyber Challenge 2019</title><link>https://ctftime.org/event/661</link><description>
+Name: STEM CTF: Cyber Challenge 2019 (an &lt;a href="/ctf/106"&gt;STEM CTF&lt;/a&gt; event.)&lt;br/&gt;
+Date: Jan. 11, 2019, 7 p.m. &amp;mdash; 12 Jan. 2019, 19:00 UTC &amp;nbsp;&lt;a href="/event/661.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://mitrestemctf.org/" rel="nofollow"&gt;https://mitrestemctf.org/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/13562"&gt;MITRE Cyber Academy&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/661</guid><start_date>20190111T190000</start_date><finish_date>20190112T190000</finish_date><logo_url></logo_url><url>https://mitrestemctf.org/</url><ctftime_url>/event/661</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>True</public_votable><weight>0.00</weight><live_feed>https://ctftime.org/live/661/</live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 13562, "name": "MITRE Cyber Academy"}]</organizers><ctf_id>106</ctf_id><ctf_name>STEM CTF</ctf_name></item><item><title>Insomni'hack teaser 2019</title><link>https://ctftime.org/event/686</link><description>
+Name: Insomni&amp;#39;hack teaser 2019 (an &lt;a href="/ctf/56"&gt;Insomni&amp;#39;hack&lt;/a&gt; event.)&lt;br/&gt;
+Date: Jan. 19, 2019, noon &amp;mdash; 20 Jan. 2019, 12:00 UTC &amp;nbsp;&lt;a href="/event/686.ics"&gt;[add to calendar]&lt;/a&gt;&lt;br/&gt;
+Format: Jeopardy&lt;br/&gt;
+&lt;b&gt;On-line&lt;/b&gt;&lt;br/&gt;
+
+Offical URL: &lt;a href="https://teaser.insomnihack.ch/" rel="nofollow"&gt;https://teaser.insomnihack.ch/&lt;/a&gt;&lt;br/&gt;
+Rating weight: 0.00&lt;br/&gt;
+
+Event organizers: 
+
+&lt;a href="/team/760"&gt;0daysober&lt;/a&gt; 
+
+
+</description><guid>https://ctftime.org/event/686</guid><start_date>20190119T120000</start_date><finish_date>20190120T120000</finish_date><logo_url></logo_url><url>https://teaser.insomnihack.ch/</url><ctftime_url>/event/686</ctftime_url><format>1</format><format_text>Jeopardy</format_text><public_votable>False</public_votable><weight>41.56</weight><live_feed></live_feed><restrictions>Open</restrictions><location></location><onsite>False</onsite><organizers>[{"id": 760, "name": "0daysober"}]</organizers><ctf_id>56</ctf_id><ctf_name>Insomni'hack</ctf_name></item></channel></rss>
