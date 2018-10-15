@@ -11,7 +11,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 setup(
     name='ctf-announcement',
     packages=['ctf_announcement'],
-    version='0.2',
+    version='0.3',
     author='numirias',
     author_email='numirias@users.noreply.github.com',
     url='https://github.com/secse-ctf/announcement',
