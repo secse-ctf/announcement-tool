@@ -11,7 +11,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 setup(
     name='ctf-announcement',
     packages=['ctf_announcement'],
-    version='0.1',
+    version='0.2',
     author='numirias',
     author_email='numirias@users.noreply.github.com',
     url='https://github.com/secse-ctf/announcement',
@@ -20,7 +20,7 @@ setup(
     install_requires=['python-dateutil', 'feedparser'],
     entry_points={
         'console_scripts': [
-            'ctf-announcement = announcement.__main__:main',
+            'ctf-announcement = ctf_announcement.__main__:main',
         ]
     },
     classifiers=[
