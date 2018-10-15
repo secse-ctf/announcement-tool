@@ -12,17 +12,18 @@ This is a simple commandline tool to quickly generate SecSE CTF announcements as
 
 ## Usage
 
-Call `ctf-announcement` with either the ID, the link or a substring of the title of an upcoming CTF. The tool will output a link to create the meta post and the markdown post body, e.g.:
+Call `ctf-announcement` with either the ID, the link or a substring of the title of an upcoming CTF. The tool will parse upcoming CTFs from CTFtime, and output a link to create the meta post and the markdown post body, e.g.:
 
 ```
 $ ctf-announcement hitc
 
 29 upcoming CTFs found.
 Here is the template for HITCON CTF 2018:
+
 -- URL -------------------------------------------------------------------------
 https://security.meta.stackexchange.com/questions/ask?title=HITCON+CTF+2018+%7C+Sat%2C+20+Oct+02%3A00+%E2%80%94+Mon%2C+22+Oct+02%3A00+UTC+%2848h%29&tags=ctf,discussion
--- Body ------------------------------------------------------------------------
 
+-- Body ------------------------------------------------------------------------
 Let's participate in the [HITCON CTF 2018](https://ctftime.org/event/669)!
 
 - **Format:** Jeopardy
@@ -45,6 +46,5 @@ General info:
 - For questions, join us in the [public chat room](https://chat.stackexchange.com/rooms/151/the-dmz).
 
 Good luck everyone!
-
 --------------------------------------------------------------------------------
 ```

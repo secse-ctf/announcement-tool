@@ -30,7 +30,7 @@ General info:
 - For questions, join us in the [public chat room](https://chat.stackexchange.com/rooms/151/the-dmz).
 
 Good luck everyone!
-'''
+'''[1:-1]
 TAGS = ['ctf', 'discussion']
 
 
@@ -112,11 +112,10 @@ def run(term, feed_url=FEED_URL):
     feed = feedparser.parse(feed_url)
     events = [Event(e) for e in feed.entries]
     yield '%d upcoming CTFs found.' % len(events)
-
     event = find_event(term, events)
-    yield 'Here is the template for %s:' % event.title
+    yield 'Here is the template for %s:\n' % event.title
     yield heading('URL')
-    yield event.make_link()
+    yield event.make_link() + '\n'
     yield heading('Body')
     yield event.make_body()
     yield heading('')
