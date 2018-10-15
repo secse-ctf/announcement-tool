@@ -12,8 +12,8 @@ Let's participate in the [{title}]({ctftime_url})!
 
 - **Format:** {format}
 - **Duration:** {hours}h
-- **Start:** {start} <sup>[(See other timezones)](https://www.timeanddate.com/worldclock/fixedtime.html?msg={url_title}&iso={start_iso}&ah={hours})</sup>
-- **Finish:** {stop}
+- **Start:** {start} <sup>[(Other timezone)](https://www.timeanddate.com/worldclock/fixedtime.html?msg={title_enc}&iso={start_iso})</sup>
+- **Finish:** {stop} <sup>[(Other timezone)](https://www.timeanddate.com/worldclock/fixedtime.html?msg={title_enc}&iso={stop_iso})</sup>
 - **Official URL:** [{official_url}]({official_url})
 - **CTFtime URL:** [{ctftime_url}]({ctftime_url})
 - **Rating weight:** {weight} <sup>[(?)](https://ctftime.org/faq/#weight)</sup>
@@ -65,7 +65,7 @@ class Event:
         start_f, stop_f = (x.strftime('%a, %Y-%m-%d %H:%M UTC') for x in (start, stop))
         return BODY_TEMPLATE.format(
             title=self.title,
-            url_title=quote_plus(self.title),
+            title_enc=quote_plus(self.title),
             official_url=self.href,
             ctftime_url=self.link,
             format=self.format_text,
@@ -75,6 +75,7 @@ class Event:
             stop=stop_f,
             hours=self.hours,
             start_iso=self.start_date,
+            stop_iso=self.finish_date,
             ctf_id=self.ctf_id,
             ctf_name=self.ctf_name,
         )
