@@ -28,8 +28,8 @@ Let's participate in the [HITCON CTF 2018](https://ctftime.org/event/669)!
 
 - **Format:** Jeopardy
 - **Duration:** 48h
-- **Start:** Sat, 2018-10-20 02:00 UTC <sup>[(See other timezones)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=HITCON+CTF+2018&iso=20181020T020000&ah=48)</sup>
-- **Finish:** Mon, 2018-10-22 02:00 UTC
+- **Start:** Sat, 2018-10-20 02:00 UTC <sup>[(Other timezone)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=HITCON+CTF+2018&iso=20181020T020000)</sup>
+- **Finish:** Mon, 2018-10-22 02:00 UTC <sup>[(Other timezone)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=HITCON+CTF+2018&iso=20181022T020000)</sup>
 - **Official URL:** [https://ctf.hitcon.org/](https://ctf.hitcon.org/)
 - **CTFtime URL:** [https://ctftime.org/event/669](https://ctftime.org/event/669)
 - **Rating weight:** 98.32 <sup>[(?)](https://ctftime.org/faq/#weight)</sup>
